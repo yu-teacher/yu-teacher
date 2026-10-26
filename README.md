@@ -1,38 +1,93 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Yu-teacher's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-### 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+# 유승민 (yu-teacher)
 
-### 🛠️ Tools
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+인증·인가 플랫폼을 직접 만들고, 그 위에 서비스를 올려 운영하는 백엔드 개발자
 
-### 📊 GitHub Stats
-![Yu-teacher's GitHub stats](https://github-readme-stats.vercel.app/api?username=yu-teacher&show_icons=true&theme=radical)
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yu-teacher&layout=compact&theme=radical)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/yu-teacher?tab=repositories)
 
-### 🔗 Connect with Me
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)]()
-[![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)]()
-[![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=github&logoColor=white)]()
+</div>
+
+<br>
+
+## Tech Stack
+
+**Backend** &nbsp;
+![Java](https://img.shields.io/badge/Java_25-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.1-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend** &nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
+
+**Database** &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**DevOps** &nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+
+**Tools** &nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+<br>
+
+## Featured: Doro
+
+> 여러 마이크로서비스가 **하나의 계정 체계와 하나의 권한 엔진**을 공유하도록 만든 인증·인가 플랫폼
+
+[**yu-teacher/doro**](https://github.com/yu-teacher/doro) · Zanzibar 모델을 참고해 직접 구현한 **ReBAC 인가 엔진(Guard)**, OAuth 2.1 / OIDC 인증 서버, 어노테이션 한 줄로 권한을 위임하는 Spring Boot SDK. 테스트 450개 이상, 모든 배포는 테스트 통과 후에만 진행해요.
+
+**Doro 위에서 동작하는 서비스**
+
+| 서비스 | 설명 |
+| :-- | :-- |
+| [**doro-blog**](https://github.com/yu-teacher/doro-blog) | 마크다운 기술 블로그. 시리즈·댓글·트렌딩·검색, 파일 업로드 방어, 테스트 532개 |
+| [**doro-party**](https://github.com/yu-teacher/doro-party) | 친구들의 지도를 겹쳐 보고 "오늘 어디 갈까"를 정하는 모바일 PWA |
+| [**doro-interview**](https://github.com/yu-teacher/doro-interview) | 개발 면접 질문 746개를 학습하고 랜덤으로 풀어 보는 PWA |
+| [**doro-games**](https://github.com/yu-teacher/doro-games) | 웹 미니게임 포털. 서버가 판을 발급해 점수를 검증하는 랭킹 |
+| [**doro-notify**](https://github.com/yu-teacher/doro-notify) | 웹 푸시 알림 서비스 (RFC 8291/8292, SSRF 방어, 발송 큐·재시도) |
+| [**doro-menu**](https://github.com/yu-teacher/doro-menu) | "오늘 뭐 먹지" 메뉴 결정 서비스 |
+
+<br>
+
+## Other Projects
+
+| 프로젝트 | 설명 |
+| :-- | :-- |
+| [**woowaTechGo**](https://github.com/yu-teacher/woowaTechGo) | 우아한테크코스 최종 과제. 온라인 바둑 서버 (Spring WebSocket, KataGo AI 연동) |
+| [**WooTeChat**](https://github.com/yu-teacher/WooTeChat) | 바둑 게임용 실시간 채팅 서버 (STOMP) |
+| [**wootegofront**](https://github.com/yu-teacher/wootegofront) | 바둑 서비스 프론트엔드 (Svelte) |
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=yu-teacher&show_icons=true&theme=transparent&hide_border=true&title_color=6DB33F&icon_color=6DB33F&text_color=888888" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu-teacher&layout=compact&theme=transparent&hide_border=true&title_color=6DB33F&text_color=888888" />
 
 </div>
