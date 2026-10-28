@@ -23,6 +23,7 @@
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square)
 ![ArchUnit](https://img.shields.io/badge/ArchUnit-4B8BBE?style=flat-square)
 ![Hexagonal](https://img.shields.io/badge/Hexagonal_Architecture-555555?style=flat-square)
+![Domain Model](https://img.shields.io/badge/Domain_Model-555555?style=flat-square)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth_2.1-EB5424?style=flat-square&logo=auth0&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
