@@ -6,7 +6,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/yu-teacher?tab=repositories)
+[![Portfolio PDF](https://img.shields.io/badge/Portfolio_PDF-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/yu-teacher/yu-teacher/blob/main/portfolio.pdf)
 
 </div>
 
@@ -58,7 +58,7 @@
 
 > 여러 마이크로서비스가 **하나의 계정 체계와 하나의 권한 엔진**을 공유하도록 만든 인증·인가 플랫폼
 
-[**yu-teacher/doro**](https://github.com/yu-teacher/doro) · Zanzibar 모델을 참고해 직접 구현한 **ReBAC 인가 엔진(Guard)**, OAuth 2.1 / OIDC 인증 서버, 어노테이션 한 줄로 권한을 위임하는 Spring Boot SDK. 테스트 450개 이상, 모든 배포는 테스트 통과 후에만 진행해요.
+[**yu-teacher/doro**](https://github.com/yu-teacher/doro) · Zanzibar 모델을 참고해 직접 구현한 **ReBAC 인가 엔진(Guard)**, OAuth 2.1 / OIDC 인증 서버, 어노테이션 한 줄로 권한을 위임하는 Spring Boot SDK. Java 테스트 688개, 모든 배포는 테스트 통과 후에만 진행해요. 요구·규칙·검증은 직접 정하고 구현에는 AI 코딩 도구를 함께 썼습니다.
 
 **Doro 위에서 동작하는 서비스**
 
@@ -70,6 +70,15 @@
 | [**doro-games**](https://github.com/yu-teacher/doro-games) | 웹 미니게임 포털. 서버가 판을 발급해 점수를 검증하는 랭킹 |
 | [**doro-notify**](https://github.com/yu-teacher/doro-notify) | 웹 푸시 알림 서비스 (RFC 8291/8292, SSRF 방어, 발송 큐·재시도) |
 | [**doro-menu**](https://github.com/yu-teacher/doro-menu) | "오늘 뭐 먹지" 메뉴 결정 서비스 |
+
+<br>
+
+## Work & Team Projects (비공개)
+
+| 프로젝트 | 설명 |
+| :-- | :-- |
+| **구매대행 업무 자동화** | 회사 실무 시스템(비공개). 5개 마켓 주문 엑셀을 송장용으로 바꾸던 하루 5~6시간 작업을 1시간 내외로 줄이고, 이후 주문 수집부터 송장·재고·정산까지 묶은 통합 운영 시스템으로 확장. 외부 쓰기 차단·dry-run·ArchUnit 규칙 등 안전장치와 테스트 727개 (2단계는 AI 코딩 도구 활용) |
+| **주차장 관리 시스템** | 팀 프로젝트(MSA). 결제 서비스를 단독 구현(포트원 SDK 어댑터 격리, PG 재조회 검증)하고 사용자 서비스 일부 담당 |
 
 <br>
 
