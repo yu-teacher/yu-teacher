@@ -70,7 +70,7 @@
 | :-- | :-- |
 | [**doro-blog**](https://github.com/yu-teacher/doro-blog) | 마크다운 기술 블로그. 시리즈·댓글·트렌딩·검색, 파일 업로드 방어, 테스트 532개 |
 | [**doro-party**](https://github.com/yu-teacher/doro-party) | 친구들의 지도를 겹쳐 보고 "오늘 어디 갈까"를 정하는 모바일 PWA |
-| [**doro-interview**](https://github.com/yu-teacher/doro-interview) | 개발 면접 질문 746개를 학습하고 랜덤으로 풀어 보는 PWA |
+| [**doro-interview**](https://github.com/yu-teacher/doro-interview) | 개발 면접 질문 1,225개를 학습하고 랜덤으로 풀어 보는 PWA |
 | [**doro-games**](https://github.com/yu-teacher/doro-games) | 웹 미니게임 포털. 서버가 판을 발급해 점수를 검증하는 랭킹 |
 | [**doro-notify**](https://github.com/yu-teacher/doro-notify) | 웹 푸시 알림 서비스 (RFC 8291/8292, SSRF 방어, 발송 큐·재시도) |
 | [**doro-menu**](https://github.com/yu-teacher/doro-menu) | "오늘 뭐 먹지" 메뉴 결정 서비스 |
