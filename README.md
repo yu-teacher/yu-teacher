@@ -62,13 +62,13 @@
 
 > 여러 마이크로서비스가 **하나의 계정 체계와 하나의 권한 엔진**을 공유하도록 만든 인증·인가 플랫폼
 
-[**yu-teacher/doro**](https://github.com/yu-teacher/doro) · Zanzibar 모델을 참고해 직접 구현한 **ReBAC 인가 엔진(Guard)**, OAuth 2.1 / OIDC 인증 서버, 어노테이션 한 줄로 권한을 위임하는 Spring Boot SDK. Java 테스트 688개, 모든 배포는 테스트 통과 후에만 진행해요. 요구·규칙·검증은 직접 정하고 구현에는 AI 코딩 도구를 함께 썼습니다.
+[**yu-teacher/doro**](https://github.com/yu-teacher/doro) · Zanzibar 모델을 참고해 직접 구현한 **ReBAC 인가 엔진(Guard)**, OAuth 2.1 / OIDC 인증 서버, 어노테이션 한 줄로 권한을 위임하는 Spring Boot SDK. Java 테스트 685개, 모든 배포는 테스트 통과 후에만 진행해요. 요구·규칙·검증은 직접 정하고 구현에는 AI 코딩 도구를 함께 썼습니다.
 
 **Doro 위에서 동작하는 서비스**
 
 | 서비스 | 설명 |
 | :-- | :-- |
-| [**doro-blog**](https://github.com/yu-teacher/doro-blog) | 마크다운 기술 블로그. 시리즈·댓글·트렌딩·검색, 파일 업로드 방어, 테스트 532개 |
+| [**doro-blog**](https://github.com/yu-teacher/doro-blog) | 마크다운 기술 블로그. 시리즈·댓글·트렌딩·검색, 파일 업로드 방어, 테스트 667개 |
 | [**doro-party**](https://github.com/yu-teacher/doro-party) | 친구들의 지도를 겹쳐 보고 "오늘 어디 갈까"를 정하는 모바일 PWA |
 | [**doro-interview**](https://github.com/yu-teacher/doro-interview) | 개발 면접 질문 1,225개를 학습하고 랜덤으로 풀어 보는 PWA |
 | [**doro-games**](https://github.com/yu-teacher/doro-games) | 웹 미니게임 포털. 서버가 판을 발급해 점수를 검증하는 랭킹 |
